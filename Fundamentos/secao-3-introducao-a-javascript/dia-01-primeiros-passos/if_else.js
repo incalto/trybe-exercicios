@@ -1,4 +1,5 @@
 let nota = 90;
+
 if (nota >= 80) {
     console.log("Parabéns, você faz parte do grupo de pessoas aprovadas!");
 }
