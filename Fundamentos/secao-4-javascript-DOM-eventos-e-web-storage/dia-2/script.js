@@ -55,4 +55,4 @@ h33.classList.add('description');
 
 main.removeChild(document.getElementsByClassName('left-content')[0]);
 
-right[0].setAttribute('align','center');
+document.getElementsByTagName('section')[2].setAttribute('align','center')
